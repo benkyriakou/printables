@@ -12,3 +12,4 @@ To assemble you'll require:
 
 ![Case](./case.png "Case")
 ![Insert](./insert.png "Insert")
+![Case photo](./case.jpg "Case photo")
